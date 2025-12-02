@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r,ae as l}from"./chunks/framework.BQlYxExx.js";const m=JSON.parse('{"title":"关于我","description":"","frontmatter":{},"headers":[],"relativePath":"about.md","filePath":"about.md"}'),i={name:"about.md"};function o(n,a,c,h,s,u){return r(),t("div",null,[...a[0]||(a[0]=[l("",9)])])}const p=e(i,[["render",o]]);export{m as __pageData,p as default};
