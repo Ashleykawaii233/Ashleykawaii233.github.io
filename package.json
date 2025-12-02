@@ -4,12 +4,15 @@
   "private": true,
   "scripts": {
     "dev": "vitepress dev docs",
-    "build": "vitepress build docs"
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+    "deploy": "npm run build && gh-pages -d docs/.vitepress/dist"
   },
   "dependencies": {
     "vue": "^3.2.47"
   },
   "devDependencies": {
+    "gh-pages": "^6.3.0",
     "vitepress": "^1.6.4"
   }
 }

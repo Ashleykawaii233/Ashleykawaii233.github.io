@@ -14,6 +14,8 @@
 -使用HTML+CSS、Electron 制作沉浸式交互养成游戏
 ## 联系方式
 - 🐱 [GitHub](https://github.com/Ashleykawaii233)
-        [Gitcode(https://gitcode.com/2301_78668329)
-- 📧 limoxuan190@gmail.com
-        2646949317@qq.com
+- 🐱 [Gitcode](https://gitcode.com/2301_78668329)
+
+        
+- 📧 [limoxuan190@gmail.com](mailto:limoxuan190@gmail.com)
+- 📧 [2646949317@qq.com](mailto:2646949317@qq.com)

@@ -1,8 +1,8 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: '千夏蝉时雨的小窝',
-  description: '全栈web开发者作品集',
+  title: '欢迎来到千夏蝉时雨的小屋',
+  description: '前端开发者作品集',
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
