@@ -6,14 +6,14 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '项目', link: '/projects' }
+      { text: '项目', link: '/projects' },
     ],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/Ashleykawaii233' }
+      { icon: 'github', link: 'https://github.com/Ashleykawaii233' },
     ],
     footer: {
       message: 'Released under the MIT License.',
-      copyright: 'Copyright © 2025 千夏蝉时雨'
-    }
-  }
+      copyright: 'Copyright © 2025 千夏蝉时雨',
+    },
+  },
 })
